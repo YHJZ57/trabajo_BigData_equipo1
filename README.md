@@ -1,8 +1,3 @@
-
-<<<<<<< HEAD
-
-=======
->>>>>>> a7d745a (Limpieza: archivos excluidos del repositorio)
 ## Trabajo en equipo para la asignatura "Big Data"
 
 <!-- El párrafo de abajo has de dejarlo tal cual. NO HAS DE CAMBIAR NADA!!-->
@@ -26,7 +21,3 @@ El título del trabajo esEl tráfico marítimo de Colombia
 
 En el trabajo hago un analisis sobre el trasporte maritimo en Colombia, su composicion y los componestes que lo forman. 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a7d745a (Limpieza: archivos excluidos del repositorio)
