@@ -1,0 +1,1 @@
+Move my_trabajo_BigData.qmd to global directory
